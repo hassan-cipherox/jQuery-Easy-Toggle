@@ -2,16 +2,13 @@
 Flexible easy targeted toggle library
 
 # How to Execute
-## test 1
-### test 2
-@ test 3
 
 ```
-` Source
+### Source
 <div class="click_toogle_init" data-target="#aabbcc" data-targetState="visible">Yahoo</div>
 
 
-` Target
+### Target
 <div id="aabbcc">
 	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
