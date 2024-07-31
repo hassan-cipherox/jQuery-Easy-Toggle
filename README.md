@@ -1,11 +1,11 @@
 # jQuery-Easy-Toggle
-Flexible easy targeted toggle library
+This flexible easy targeted toggle library will collapse OR uncollapse the targeted element on click and it also check the current target state.
 
 # How to Execute
 
 ```
 ### Source
-<div class="click_toogle_init" data-target="#aabbcc" data-targetState="visible">Yahoo</div>
+<div class="click_toogle_init">Click ME</div>
 
 
 ### Target
